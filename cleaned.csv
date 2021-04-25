@@ -2649,10 +2649,6 @@ calendar_year,city,state,closed_date,amount_awarded
 2018.0,Boston,MA,2018-12-20,10000.0
 2019.0,Boston,MA,2019-01-30,100000.0
 2019.0,Boston,MA,2019-05-19,15000.0
-,Cambridge,MA,,2500.0
-,Cambridge,MA,,50000.0
-,Cambridge,MA,,54000.0
-,Cambridge,MA,,7500.0
 2016.0,Charleston,SC,2016-06-03,0.0
 2014.0,Charleston,SC,2014-04-07,0.0
 2012.0,Charleston,SC,2012-04-04,12500.0
@@ -2779,12 +2775,10 @@ calendar_year,city,state,closed_date,amount_awarded
 2015.0,Columbia,SC,2015-01-30,25000.0
 2018.0,Columbia,SC,2018-12-06,8625.0
 2014.0,Columbia,SC,2014-09-22,15000.0
-,Columbia,SC,,300000.0
 2016.0,Columbia,SC,2016-03-18,180000.0
 2017.0,Columbia,SC,2017-07-03,15000.0
 2016.0,Columbia,SC,2016-12-05,60000.0
 2015.0,Columbia,SC,2015-09-18,12800.0
-,Columbia,SC,,15000.0
 2017.0,Columbia,SC,2017-03-03,22000.0
 2013.0,Columbia,SC,2013-02-15,43000.0
 2014.0,Columbia,SC,2014-10-02,27500.0
@@ -2793,35 +2787,12 @@ calendar_year,city,state,closed_date,amount_awarded
 2016.0,Columbia,SC,2016-05-02,185000.0
 2010.0,Columbia,SC,2010-09-17,4500.0
 2017.0,Columbia,SC,2017-05-17,8000.0
-,Columbia,SC,,6500.0
 2016.0,Columbia,SC,2016-06-13,9000.0
 2017.0,Columbia,SC,2017-01-12,250000.0
-,Little Rock,AR,,5000.0
-,Little Rock,AR,,10000.0
-,Little Rock,AR,,2700.0
-,Little Rock,AR,,6750.0
-,Little Rock,AR,,15000.0
-,Little Rock,AR,,90000.0
-,Little Rock,AR,,810000.0
-,Little Rock,AR,,4500.0
 2012.0,Orlando,FL,2012-11-14,6000.0
 2015.0,Orlando,FL,2015-03-20,4000.0
 2014.0,Orlando,FL,2014-03-03,90000.0
-,Orlando,FL,,880000.0
 2013.0,Orlando,FL,2013-03-04,3000.0
-,Orlando,FL,,750000.0
-,Orlando,FL,,140000.0
-,Orlando,FL,,24999.99
-,Orlando,FL,,17500.0
-,Orlando,FL,,15000.0
-,Orlando,FL,,5000.0
-,Orlando,FL,,100000.0
-,Orlando,FL,,10000.0
-,Orlando,FL,,5000.0
-,Orlando,FL,,30000.0
-,Orlando,FL,,125000.0
-,Orlando,FL,,760000.0
-,Orlando,FL,,15000.0
 2015.0,Orlando,FL,2015-05-21,75000.0
 2016.0,Orlando,FL,2016-06-08,40000.0
 2014.0,Orlando,FL,2014-07-07,5000.0
@@ -4118,7 +4089,6 @@ calendar_year,city,state,closed_date,amount_awarded
 2019.0,Philadelphia,PA,2019-08-12,20000.0
 2019.0,Philadelphia,PA,2019-08-13,1250.0
 2019.0,Philadelphia,PA,2019-08-22,80000.0
-,Philadelphia,PA,,41613.0
 2019.0,Philadelphia,PA,2019-08-29,20000.0
 2019.0,Philadelphia,PA,2019-09-09,34500.0
 2019.0,Philadelphia,PA,2019-09-12,30000.0
@@ -4366,7 +4336,6 @@ calendar_year,city,state,closed_date,amount_awarded
 2013.0,New Orleans,LA,2013-10-15,27500.0
 2013.0,New Orleans,LA,2013-11-13,75000.0
 2013.0,New Orleans,LA,2013-07-08,1500.0
-,New Orleans,LA,,625000.0
 2013.0,New Orleans,LA,2013-07-08,750.0
 2014.0,New Orleans,LA,2014-04-01,13000.0
 2016.0,New Orleans,LA,2016-10-17,925000.0
@@ -4898,7 +4867,6 @@ calendar_year,city,state,closed_date,amount_awarded
 2018.0,Paterson,NJ,2018-02-16,708755.4
 2017.0,Paterson,NJ,2017-05-01,100543.44
 2020.0,Paterson,NJ,2020-02-07,293563.24
-,Paterson,NJ,,602218.19
 2016.0,Paterson,NJ,2016-06-16,34035.0
 2016.0,Paterson,NJ,2016-12-08,9804.41
 2018.0,Paterson,NJ,2018-11-07,105381.09
@@ -4915,26 +4883,16 @@ calendar_year,city,state,closed_date,amount_awarded
 2020.0,Paterson,NJ,2020-01-21,14174.6
 2019.0,Paterson,NJ,2019-09-27,66794.0
 2020.0,Paterson,NJ,2020-03-02,79453.39
-,Paterson,NJ,,35100.0
-,Paterson,NJ,,127728.61
-,Paterson,NJ,,163481.32
-,Paterson,NJ,,69225.0
-,Paterson,NJ,,32300.5
-,Paterson,NJ,,45018.73
 2018.0,Paterson,NJ,2018-11-07,274654.76
 2020.0,Paterson,NJ,2020-02-28,7886.6
-,Paterson,NJ,,36275.0
 2019.0,Paterson,NJ,2019-03-21,37000.0
 2020.0,Paterson,NJ,2020-05-27,2187.5
 2019.0,Paterson,NJ,2019-06-20,4655.45
 2019.0,Paterson,NJ,2019-07-08,6702.5
 2019.0,Paterson,NJ,2019-05-09,14317.5
 2019.0,Paterson,NJ,2019-08-16,9035.0
-,Paterson,NJ,,95500.0
 2020.0,Paterson,NJ,2020-06-29,2075.5
-,Paterson,NJ,,31000.0
 2020.0,Paterson,NJ,2020-01-08,69181.0
-,Paterson,NJ,,30500.0
 2016.0,Paterson,NJ,2016-04-04,101020.68
 2014.0,Paterson,NJ,2014-09-25,21920.9
 2012.0,Paterson,NJ,2012-11-07,31712.5
@@ -4956,8 +4914,6 @@ calendar_year,city,state,closed_date,amount_awarded
 2014.0,Paterson,NJ,2014-09-25,13908.86
 2016.0,Paterson,NJ,2016-06-13,67983.7
 2016.0,Paterson,NJ,2016-02-09,34132.71
-,Paterson,NJ,,513532.1
-,Paterson,NJ,,610193.2
 2010.0,Milwaukee,WI,2010-07-12,75000.0
 2011.0,Milwaukee,WI,2011-01-14,750.0
 2011.0,Milwaukee,WI,2011-05-18,5000.0
@@ -5112,7 +5068,6 @@ calendar_year,city,state,closed_date,amount_awarded
 2015.0,Indianapolis,IN,2015-03-23,5000.0
 2015.0,Indianapolis,IN,2015-01-21,20000.0
 2015.0,Indianapolis,IN,2015-03-01,590000.0
-,Indianapolis,IN,,1500.0
 2015.0,Indianapolis,IN,2015-08-05,9000.0
 2015.0,Indianapolis,IN,2015-03-17,1000.0
 2014.0,Indianapolis,IN,2014-12-09,45000.0
@@ -38216,7 +38171,6 @@ calendar_year,city,state,closed_date,amount_awarded
 2016.0,Washington,DC,2016-09-27,3500.0
 2018.0,Washington,DC,2018-01-04,15000.0
 2015.0,Washington,DC,2015-11-02,1000.0
-,Washington,DC,,12000.0
 2017.0,Washington,DC,2017-04-26,20000.0
 2017.0,Washington,DC,2017-05-09,7500.0
 2017.0,Washington,DC,2017-04-26,25000.0
@@ -38866,26 +38820,18 @@ calendar_year,city,state,closed_date,amount_awarded
 2019.0,Fort Lauderdale,FL,2019-02-04,50000.0
 2018.0,Fort Lauderdale,FL,2018-01-17,50000.0
 2017.0,Fort Lauderdale,FL,2017-06-20,19500.0
-,Fort Lauderdale,FL,,35000.0
 2015.0,Fort Lauderdale,FL,2015-04-24,65000.0
 2018.0,Fort Lauderdale,FL,2018-09-28,21500.0
 2016.0,Fort Lauderdale,FL,2016-12-05,25000.0
 2017.0,Fort Lauderdale,FL,2017-06-23,5000.0
-,Fort Lauderdale,FL,,50000.0
-,Fort Lauderdale,FL,,5000.0
 2018.0,Fort Lauderdale,FL,2018-05-10,45000.0
 2018.0,Fort Lauderdale,FL,2018-06-25,5000.0
 2016.0,Fort Lauderdale,FL,2016-12-05,20000.0
 2019.0,Fort Lauderdale,FL,2019-09-26,37500.0
 2019.0,Fort Lauderdale,FL,2019-05-31,150000.0
 2019.0,Fort Lauderdale,FL,2019-05-31,150000.0
-,Fort Lauderdale,FL,,10000.0
-,Richmond,VA,,165000.0
 2014.0,Richmond,VA,2014-04-29,1000.0
-,Richmond,VA,,240000.0
-,Richmond,VA,,125000.0
 2015.0,Richmond,VA,2015-06-22,100000.0
-,Richmond,VA,,17500.0
 2012.0,Richmond,VA,2012-04-04,45000.0
 2018.0,Richmond,VA,2018-06-14,15000.0
 2018.0,Richmond,VA,2018-06-14,15000.0
