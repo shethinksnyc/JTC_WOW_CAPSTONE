@@ -7,7 +7,7 @@ It includes:
 
 ---- 
 
-3. line graphs.ipynb : Shows a line graph for all the cities in final.csv
-4. misc plots.ipynb : Shows several different plots with different data visualizations
-5. per capita.ipynb : Shows a scatter plot for the dollar amount payout per capita (for the decade)
+3. line graphs.ipynb : Shows a line graph for all the cities in final.csv with the notes
+4. misc plots.ipynb : Shows several different plots with different data visualizations with notes
+5. per capita.ipynb : Shows a scatter plot for the dollar amount payout per capita (for the decade) with notes
 ** Some cities were not included due to lack of transparency in the data which left some cities without any calendar year**
