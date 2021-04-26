@@ -44,3 +44,5 @@ amount_awarded | Amount awarded to claimant in the settlement
 Census | All persons who are "usually resident" in a specified geographic area.
 Estimates    | The population count or estimate used as the starting point in the estimates process.
 2010-2019 | The population count for each individual year
+yearly_incident | Police misconduct incident count per city 
+total  | Total Police misconduct incident count per city from 2010-2019
