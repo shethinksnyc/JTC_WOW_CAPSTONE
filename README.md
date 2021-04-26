@@ -35,7 +35,7 @@ Each folder contains:
 
 ## The Variables
 Variable name | Definition
---------------------------
+--------------| -----------
 calendar_year |
 city |
 state | 
