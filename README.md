@@ -15,5 +15,5 @@ Making data visualization more effective than looking through hundreds and even 
 
 https://github.com/themarshallproject/police-settlements
 
-All police misconduct settlement data came from the [Marshal Projec](http://github.com)
+All police misconduct settlement data came from the [Marshal Projec](https://github.com/themarshallproject/police-settlements)
 
