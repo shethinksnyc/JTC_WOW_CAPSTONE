@@ -1,4 +1,4 @@
-![Justice Through Code](jtc-1.jpg)
+![Justice Through Code](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/readme_img/jtc.png?raw=true)
 
 
 #  JTC_WOW_CAPSTONE
@@ -55,5 +55,9 @@ Seaborn | A data visualization library derived from matplotlib that provides the
 Matplotlib | A basic plotting library that consists of bars, pies, lines and scatter plots 
 
 # The process 
-We began by importing the csv's 
+1. We began by importing the csv's 
 ![read_csv](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/readme_img/read_csv.png?raw=true)
+2. We then began dropping data that we did not need ![drop_columns](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/readme_img/drop_columns.png?raw=true)
+3. then we converting datatypes to get clean outputs 
+4. next we combined that dataframes to a veriable, then concatenated the variable ![combinding_and_concatenating](http://localhost:8889/files/readme_img/concat.png)
+5. To compleat the city data we converted the data frame in to a csv ![converting_dataframe_csv](http://localhost:8889/files/readme_img/to_csv.png)
