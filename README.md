@@ -11,9 +11,23 @@ While social and civil unrest have become a normal occurrence in the nation, dee
 
 Making data visualization more effective than looking through hundreds and even thousands of rows on a spreadsheet.
 
-# The DATA:
+# The DATA
 
-https://github.com/themarshallproject/police-settlements
+All police misconduct settlement data is from the [Marshal Project](https://github.com/themarshallproject/police-settlements) 
 
-All police misconduct settlement data came from the [Marshal Projec](https://github.com/themarshallproject/police-settlements)
+All population data is from [Census Bureau](https://www.census.gov/)
+
+## Folder Structure
+The folders:
+1. census_population_data
+2. final_city_data
+3. visualizations
+4. plot_bugs
+
+Each folder contains:
+1. Readme.md file that specifies the contents of the folder.
+2. Original CSV files used to create new data frames.
+3. Jupyter Notebook files where data cleaning and analysis took place.
+* The visualizations folder contains an additional folder with PNG files for viewing
+
 
