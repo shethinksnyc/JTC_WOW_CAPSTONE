@@ -1,4 +1,4 @@
-![Justice Through Code](jtc.jpg)
+![Justice Through Code](jtc-1.jpg)
 
 
 #  JTC_WOW_CAPSTONE
