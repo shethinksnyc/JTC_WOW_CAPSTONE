@@ -34,5 +34,11 @@ Each folder contains:
 * The visualizations folder contains an additional folder with PNG files for viewing
 
 ## The Variables
-
+Variable name | Definition
+--------------------------
+calendar_year |
+city |
+state | 
+closed_date | 
+amount_awarded |
 
