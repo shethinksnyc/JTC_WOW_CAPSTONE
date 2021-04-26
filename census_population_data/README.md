@@ -1,6 +1,5 @@
-## This folder contains all original data for Police Misconduct Settlements
+## This folder contains all population data for the following cities:
 
-### The cities included are:
 1. New York City, New York
 2. Chicago, Illinois
 3. Miami, Florida
