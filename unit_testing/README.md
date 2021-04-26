@@ -3,8 +3,9 @@
 
 It includes:
 
-1. function_test.py : This file was used to test our function. 
+1. function_test.py : This file was used to test our function. It includes one passed test, and one failed test.
 
 To run pytest:
 > Download the function_test.py file.
 > Run pytest in your terminal (you must be sure you are in the directory where the function_test.py file is stored). 
+
