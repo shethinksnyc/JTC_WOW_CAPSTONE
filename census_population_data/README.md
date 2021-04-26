@@ -32,10 +32,19 @@
 30. Atlanta, Georgia
 31. North Charleston, South Carolina
 
-### Jupyter Kernel files
-#### The jupyter Kernel files inside this folder show the process we took in importing, selecting and preparing data for our project
+Source: [Census Bureau ](https://www.census.gov/)
 
-This folder conatins all necessary csv files to run kernels
+## Jupyter Notebook file 
+### The process:
+1. Import Pandas library
+2. Read in Excel file from Census Bureau
+3. Set columns and drop NaN values
+4. Set index, sort and delete columns
+4. Explore different indexing method (iterrows,iloc,and itertuples)
+5. Edit columns 
+6. Convert new data frame into CSV file
+
+* This folder conatins all necessary XLSX files to run kernels
 
 
 
