@@ -13,6 +13,9 @@ def float_to_int(x): # function to convert float to integer (i.e.: 2014.0 to 201
 def test_float_to_int_function():
     assert float_to_int('2014.0') == 2014
 
+def test2_float_to_int_function():
+    assert float_to_int('2014.0') == 2015
+
    
 
 
