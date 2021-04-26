@@ -43,4 +43,4 @@ closed_date | Date at which settlement was reached OR paid (depending on what wa
 amount_awarded | Amount awarded to claimant in the settlement
 Census | All persons who are "usually resident" in a specified geographic area.
 Estimates    | The population count or estimate used as the starting point in the estimates process.
-
+2010-2019 | The population count for each individual year
