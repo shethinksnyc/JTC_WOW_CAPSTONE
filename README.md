@@ -49,10 +49,11 @@ total  | Total Police misconduct incident count per city from 2010-2019
 
 # The Libraries
 Libraries names | Usage 
+---------|----------------------------------
 Pandas  | An open source python package that is mostly used for data sicence
 Seaborn | A data visualization library derived from matplotlib that provides the user with visiually appealing statistical graphics 
 Matplotlib | A basic plotting library that consists of bars, pies, lines and scatter plots 
 
 # The process 
 We began by importing the csv's 
-[import/drop](drop_columns)
+![read_csv](read_csv.png)
