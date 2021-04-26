@@ -14,7 +14,7 @@ While social and civil unrest have become a normal occurrence in the nation, dee
 
 Making data visualization more effective than looking through hundreds and even thousands of rows on a spreadsheet.
 
-# *The Data
+# The Data
 
 All police misconduct settlement data is from the [Marshal Project](https://github.com/themarshallproject/police-settlements) 
 
@@ -46,3 +46,14 @@ Estimates    | The population count or estimate used as the starting point in th
 2010-2019 | The population count for each individual year
 yearly_incident | Police misconduct incident count per city 
 total  | Total Police misconduct incident count per city from 2010-2019
+
+# The Libraries
+Libraries names | Usage 
+---------|----------------------------------
+Pandas  | An open source python package that is mostly used for data sicence
+Seaborn | A data visualization library derived from matplotlib that provides the user with visiually appealing statistical graphics 
+Matplotlib | A basic plotting library that consists of bars, pies, lines and scatter plots 
+
+# The process 
+We began by importing the csv's 
+![read_csv](read_csv.png)
