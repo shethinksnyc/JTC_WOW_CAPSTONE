@@ -1,18 +1,13 @@
 ![Justice Through Code](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/readme_img/jtc.png?raw=true)
 
-
-#  JTC_WOW_CAPSTONE
-### Justice Through Code capstone project
-
+# Justice Through Code capstone project
 
 # Using Data Visualization 
 
-For this project we collected data through csv’s, by using opensource software we visually represent data that we collected. Data visualization is an effective way to provide information to viewers, in a way that makes it easy to identify and recognize trends and patterns. Data visualization gives the viewer a clear idea of the information that is being expressed, in a relatively shorter and easier mental format to digest.
+For this project we collected data by using opensource software. We visually represent data that we collected. Data visualization is an effective way to provide information to viewers, in a way that makes it easy to identify and recognize trends and patterns. Data visualization gives the viewer a clear idea of the information that is being expressed in a concise and accessible format.
 
 # The Issue 
-While social and civil unrest have become a normal occurrence in the nation, deep flaws and divides over policing have been shoved into the spotlight. But the financial impact that these social issues has caused, has not seemed to receive the same lighting.
-
-Making data visualization more effective than looking through hundreds and even thousands of rows on a spreadsheet.
+While social and civil unrest have become a normal occurrence in the nation, deep flaws and divides over policing have been shoved into the spotlight. The financial impact that these issues cause is often overlooked. Our vision is to use data to shed light on the cost of police misconduct. 
 
 # The Data
 
@@ -26,6 +21,7 @@ The folders:
 2. final_city_data
 3. visualizations
 4. plot_bugs
+5. city_data_clean
 
 Each folder contains:
 1. Readme.md file that specifies the contents of the folder.
@@ -48,7 +44,7 @@ yearly_incident | Police misconduct incident count per city
 total  | Total Police misconduct incident count per city from 2010-2019
 
 # The Libraries
-Libraries names | Usage 
+Library    | Usage 
 ---------|----------------------------------
 Pandas  | An open source python package that is mostly used for data sicence
 Seaborn | A data visualization library derived from matplotlib that provides the user with visiually appealing statistical graphics 
