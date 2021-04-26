@@ -56,4 +56,4 @@ Matplotlib | A basic plotting library that consists of bars, pies, lines and sca
 
 # The process 
 We began by importing the csv's 
-![read_csv](read_csv.png)
+![read_csv](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/readme_img/read_csv.png?raw=true)
