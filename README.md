@@ -35,10 +35,12 @@ Each folder contains:
 
 ## The Variables
 Variable name | Definition
---------------| -----------
-calendar_year |
-city |
-state | 
-closed_date | 
-amount_awarded |
+--------------| -----------------
+calendar_year | Pulled from settlement date or closed_date
+city | City name
+state | State abbreviation
+closed_date | Date at which settlement was reached OR paid (depending on what was provided)
+amount_awarded | Amount awarded to claimant in the settlement
+Census | All persons who are "usually resident" in a specified geographic area.
+Estimates    | The population count or estimate used as the starting point in the estimates process.
 
