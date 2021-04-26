@@ -61,6 +61,6 @@ Matplotlib | A basic plotting library that consists of bars, pies, lines and sca
 ![drop_columns](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/readme_img/drop_columns.png?raw=true)
 3. then we converting datatypes to get clean outputs 
 4. next we combined that dataframes to a veriable, then concatenated the variable 
-![combinding_and_concatenating](http://localhost:8889/files/readme_img/concat.png?raw=true)
+![combinding_and_concatenating](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/readme_img/concat.png?raw=true)
 5. To compleat the city data we converted the data frame in to a csv 
-![converting_dataframe_csv](http://localhost:8889/files/readme_img/to_csv.png?raw=true)
+![converting_dataframe_csv](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/readme_img/to_csv.png?raw=true)
