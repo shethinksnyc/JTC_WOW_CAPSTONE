@@ -11,3 +11,7 @@ It includes:
 4. misc plots.ipynb : Shows several different plots with different data visualizations with notes
 5. per capita.ipynb : Shows a scatter plot for the dollar amount payout per capita (for the decade) with notes
 ** Some cities were not included due to lack of transparency in the data which left some cities without any calendar year**
+
+----
+
+6. PNG images folder : This folder contains PNG images of all the individual plots in our project
