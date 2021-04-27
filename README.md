@@ -22,6 +22,7 @@ The folders:
 3. visualizations
 4. plot_bugs
 5. city_data_clean
+6. unit_testing
 
 Each folder contains:
 1. Readme.md file that specifies the contents of the folder.
