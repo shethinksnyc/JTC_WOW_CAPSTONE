@@ -66,3 +66,4 @@ We began by importing the data that we would be using for our project. As explai
 
 ![](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/readme_img/statement-of-solidarity.jpg?raw=true)
 
+As the tide changes and America grapples with its tainted past we are at a critical moment, in order to shape an equitable society, we must be uncompromising in our stance against all forms of racial and social inequality. We mourn each Black and Brown life lost to police violence and impacted by an unjust justice system. To all communities of color and of every gender identity, we fight with you, we fight for you and we pledge to use our new skills to build and uplift our communities. 
