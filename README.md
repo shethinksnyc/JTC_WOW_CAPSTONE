@@ -1,6 +1,6 @@
 ![Justice Through Code](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/readme_img/jtc.jpg?raw=true)
 
-# Justice Through Code capstone project
+# Justice Through Code Capstone Project
 
 # Using Data Visualization 
 
@@ -52,7 +52,7 @@ Seaborn | A data visualization library derived from matplotlib that provides the
 Matplotlib | A basic plotting library that consists of bars, pies, lines and scatter plots 
 
 # The process 
-We began by importing the data that we would be using for our project. As explained in the [city_clean_data](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/tree/main/clean_city_data)the data we imported and used were from the [Marshal Project](https://github.com/themarshallproject/police-settlements) and were done so in the form of csv's. Next we combined the multiple csv's, cleaned the data and converted the data bases into a csv. see [final_city_data](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/tree/main/final_city_data). After completion of our city data, we then went on to clean census data that we imported from [Census Bureau](https://www.census.gov/)>  see. [census_population_data](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/tree/main/census_population_data). Once our population data was cleaned and converted into csv's, we began plotting our data. Illustrated in the [Visualizations](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/tree/main/visualizations) this was done by using seaborn, matplotlib, matplotlib.pyplot. Running into some issues with our visualization, some debugging was needed. see [plot_bugs](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/tree/main/plot_bugs). Seeing that the visualization was up and running, unit testing was the final step in making sure that our code was running efficently. see [unit_testing](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/tree/main/unit_testing)
+We began by importing the data that we would be using for our project. As explained in the [city_clean_data](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/tree/main/clean_city_data) the data we imported and used were from the [Marshal Project](https://github.com/themarshallproject/police-settlements) and were done so in the form of csv's. Next we combined the multiple csv's, cleaned the data and converted the data bases into a csv. see. [final_city_data](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/tree/main/final_city_data). After completion of our city data, we then went on to clean census data that we imported from [Census Bureau](https://www.census.gov/) see. [census_population_data](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/tree/main/census_population_data). Once our population data was cleaned and converted into csv's, we began plotting our data. Illustrated in the [visualizations](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/tree/main/visualizations) this was done by using seaborn, matplotlib, matplotlib.pyplot. Running into some issues with our visualization, some debugging was needed. see. [plot_bugs](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/tree/main/plot_bugs). Seeing that the visualization was up and running, unit testing was the final step in making sure that our code was running efficently. see. [unit_testing](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/tree/main/unit_testing)
 
 
 ## The Result
@@ -61,3 +61,8 @@ We began by importing the data that we would be using for our project. As explai
 ![Bar Plot](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/visualizations/PNG%20images/top_5_bar.png?raw=true)
 ![Line Chart](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/visualizations/PNG%20images/top_5_line.png?raw=true)
 ![Per Capita](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/visualizations/PNG%20images/per_capita.png?raw=true)
+
+
+
+![](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/readme_img/statement-of-solidarity.jpg?raw=true)
+
