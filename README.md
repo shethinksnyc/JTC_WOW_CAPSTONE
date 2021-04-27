@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Justice Through Code](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/readme_img/jtc.png?raw=true)
 
 # Justice Through Code capstone project
@@ -60,3 +61,14 @@ Matplotlib | A basic plotting library that consists of bars, pies, lines and sca
 ![combinding_and_concatenating](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/readme_img/concat.png?raw=true)
 5. To compleat the city data we converted the data frame in to a csv 
 ![converting_dataframe_csv](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/readme_img/to_csv.png?raw=true)
+=======
+# JTC_WOW_CAPSTONE
+## Justice Through Code capstone project
+#### 
+
+**_This text will be 
+
+![carbon (1)](https://user-images.githubusercontent.com/78012387/115937432-073d2800-a466-11eb-9211-3133c74b83fc.png)
+
+anything 
+>>>>>>> city_data_clean
