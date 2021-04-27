@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![Justice Through Code](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/readme_img/jtc.png?raw=true)
 
 # Justice Through Code capstone project
@@ -52,23 +51,4 @@ Seaborn | A data visualization library derived from matplotlib that provides the
 Matplotlib | A basic plotting library that consists of bars, pies, lines and scatter plots 
 
 # The process 
-1. We began by importing the csv's 
-![read_csv](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/readme_img/read_csv.png?raw=true)
-2. We then began dropping data that we did not need 
-![drop_columns](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/readme_img/drop_columns.png?raw=true)
-3. then we converting datatypes to get clean outputs 
-4. next we combined that dataframes to a veriable, then concatenated the variable 
-![combinding_and_concatenating](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/readme_img/concat.png?raw=true)
-5. To compleat the city data we converted the data frame in to a csv 
-![converting_dataframe_csv](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/readme_img/to_csv.png?raw=true)
-=======
-# JTC_WOW_CAPSTONE
-## Justice Through Code capstone project
-#### 
-
-**_This text will be 
-
-![carbon (1)](https://user-images.githubusercontent.com/78012387/115937432-073d2800-a466-11eb-9211-3133c74b83fc.png)
-
-anything 
->>>>>>> city_data_clean
+We began by importing the data that we would be using for our project. As explained in the <city_clean_data  readme here> the data we imported and used were from the <marshall project link here> and were done so in the form of csv's. Next we combined the multiple csv's, cleaned the data and converted the data bases into a csv. see <final readme>. After completion of out city data, we then went on to clean census data that we imported from <link here>  also in the form of csv. see. <census_pop_data>. Once our census data was completely cleaned and converted into csv's, we began plotting our data. Illustrated in the <visulizations folder here> this was done by using seaborn, matplotlib, matplotlib.pyplot. Running into some issues with our visualization, some debugging was needed. see <debugging folder>. Seeing that the visualization was up and running, unit testing was the final step in making sure that our code was running efficently. see <unit test folder>
