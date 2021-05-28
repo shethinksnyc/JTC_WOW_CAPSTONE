@@ -2,7 +2,7 @@
 
 It includes:
 
-1. final.csv : The csv used to get amount awarded data
+1. clean_city_data.csv : The csv used to get amount awarded data
 2. population_data.csv : The csv used to get population data 
 
 ---- 
