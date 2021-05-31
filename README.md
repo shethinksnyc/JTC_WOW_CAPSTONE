@@ -60,7 +60,7 @@ We began by importing the data that we would be using for our project. In the [1
 ![Scatter Plot](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/4%20visualizations/PNG_output%20images/scatter_plot.png?raw=true)
 # In this 'Scatter Plot' the individual amounts each city payed out between 2010 to 2020 was graphed side by side. This could be effective in showing, if there is a correlation between the years and amounts for each city. Also outliers can be easily identified. 
 
-![Bar Plot]https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/4%20visualizations/PNG_output%20images/top_5_bar.png?raw=true)
+![Bar Plot](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/4%20visualizations/PNG_output%20images/top_5_bar.png?raw=true)
 # In this 'Bar Chart' the 5 highest paying cities were identified and graphed side by side. This could be effective in showing the payout differences even between the 5 highest paying cities.
 ![Line Chart](https://github.com/shethinksnyc/JTC_WOW_CAPSTONE/blob/main/4%20visualizations/PNG_output%20images/top_5_line.png?raw=true)
 # In this 'Line Chart' the 5 highest paying cities were futher plotted and graphed from 2015 to 2019. This could be useful in identifying the trends of these cities over this time period. 
